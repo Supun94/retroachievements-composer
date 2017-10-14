@@ -47,7 +47,4 @@ Please note we have a Pull Request Process, please follow it in all your interac
 Thanks! :heart: :heart: :heart:
 
 
-RetroAchievements.org Team
-
-
 CONTRIBUTING file inspired/based on [rails contrubiting](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
