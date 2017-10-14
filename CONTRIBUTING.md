@@ -41,7 +41,7 @@ Please note we have a Pull Request Process, please follow it in all your interac
 </br>
 
 
-RetroAchievements.org is a volunteer effort. We encourage you to pitch in and [join the team](https://github.com/joestrong/retroachievements-composer/graphs/contributors)!
+[RetroAchievements.org](http://retroachievements.org) is a volunteer effort. We encourage you to pitch in and [join the team](https://github.com/joestrong/retroachievements-composer/graphs/contributors)!
 
 
 Thanks! :heart: :heart: :heart:
